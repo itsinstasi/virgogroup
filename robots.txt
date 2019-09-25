@@ -1,2 +1,2 @@
 ﻿User-agent: *
-Sitemap: https://virgogroup.itsinsta.site/sitemap.xml
+Sitemap: http://virgogroup.itsinsta.site/sitemap.xml
